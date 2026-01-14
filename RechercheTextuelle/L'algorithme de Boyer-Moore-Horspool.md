@@ -1,6 +1,6 @@
 # L'algorithme de Boyer-Moore-Horspool. 
 
-Nous verrons ici l'algorithme de Boyer-Moore-Horspool qui est une simplification (moins efficace) de l'algorithme de Boyer-Moore, mais qui est beaucoup plus aisée à coder. 
+Nous verrons ici l'algorithme de Boyer-Moore-Horspool qui est une simplification (moins efficace) de l'algorithme de Boyer-Moore, mais qui est beaucoup plus aisé à coder. 
 
 En effet, l'algorithme de Boyer Moore utilise deux tables de décalage, alors que celui de Horspool  n'en utilise qu'une seule. 
 
@@ -72,6 +72,7 @@ TATBADGEABCTAGAAGTGATAG
    >>> getPositions("abcd", "abcecbcdadabc")
    []
    ```
+
 
 
 
