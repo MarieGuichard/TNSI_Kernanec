@@ -57,10 +57,24 @@ True
 
 '192.168.0.3'
 
+####  Exercice 1 : 
+
+Considérons le plan muni d'un repère orthonormé, chaque point est repéré par deux nombres que nous appelons abscisse et ordonnée. 
+
+Nous 
+
+1. Implémenter le type abstrait Point de trois façons différentes :
+
+- par un tuple
+
+- par un dictionnaire
+
+- par une classe d'objets.  
+
+2. Comparer le code nécessaire pour créer un nouveau point, changer l'une de ses coordonnées et calculer la distance entre deux points.
 
 
-
-#### Exercice 2: 
+#### Exercice 3: 
 
 1. Définir une classe Voiture ayant les attributs suivants, avec les valeurs par défaut, indiquées.
 
@@ -84,21 +98,6 @@ Exemples d'utilisation de cette classe :
 
 
 
-####  Exercice 1 : 
-
-Considérons le plan muni d'un repère orthonormé, chaque point est repéré par deux nombres que nous appelons abscisse et ordonnée. 
-
-Nous 
-
-1. Implémenter le type abstrait Point de trois façons différentes :
-
-- par un tuple
-
-- par un dictionnaire
-
-- par une classe d'objets.  
-
-2. Comparer le code nécessaire pour créer un nouveau point, changer l'une de ses coordonnées et calculer la distance entre deux points.
 
 #### Exercice 4 : 
 
