@@ -1,5 +1,5 @@
 # Exercices: POO
-#### Exercice 3 : 
+#### Exercice 1 : 
 
 On définit une classe gérant une adresse IPv4. On rappelle qu’une adresse IPv4 est une adresse de longueur 4 octets, notée en décimale à point, en séparant chacun des octets par un point. 
 
