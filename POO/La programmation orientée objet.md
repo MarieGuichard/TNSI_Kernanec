@@ -187,4 +187,4 @@ def affiche(self):
 - Pour faire appel aux méthodes, on écrira : 
   `instance.methode(argument)`
 
-![](/POO/img/utilisationmethdeo.jpg)
+![](/POO/img/construction_moncomptebancaire.jpg)
