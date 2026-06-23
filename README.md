@@ -10,37 +10,36 @@ Le jeu de la vie
 
 3. Programmation orientée objet
 
-4. Reprendre le projet du jeu de la vie en POO
+4. Base de données
 
 5. récursivité
 
-6. Base de données
 
-7. Listes, piles, files, dictionnaires
+6. Listes, piles, files, dictionnaires
 notion d'interface et d'implémentation.
 Listes, listes chainées
 piles
 files
 dictionnaires
 
-8. Processus
+7. Processus
 
-9. Arbres,
+8. Arbres,
 - structures de données
 - Algorithmes
 
-10. Protocoles de routage
+9. Protocoles de routage
   
-11. Algo : diviser pour mieux régner
+10. Algo : diviser pour mieux régner
 
-12. Graphes
+11. Graphes
     
-13. Sécurité des communications
+12. Sécurité des communications
     
-14. Programmation fonctionnelle
+13. Programmation fonctionnelle
     
-15. Algo : recherche textuelle
+14. Algo : recherche textuelle
     
-16. Programme en tant que donnée, calculabilité, décidabilité.
+15. Programme en tant que donnée, calculabilité, décidabilité.
     
-17. SOC
+16. SOC
