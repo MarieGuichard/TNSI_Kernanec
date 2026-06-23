@@ -143,9 +143,11 @@ Remarques:
 
 
 moncompte est alors une instance de la classe CompteBancaire : c'est à dire un objet créé à partir de la classe CompteBancaire()
-Les arguments « Guichard », 101 et 800 ont été envoyés au constructeur qui les a affecté aux bonnes variables d'instances. 
+Les arguments « Le Penven », 2710 et 1000000 ont été envoyés au constructeur qui les a affecté aux bonnes variables d'instances. 
 self est un argument « fantôme ». On ne le passe pas en paramètre. 
 Il est possible d'accéder aux paramètres du compte en utilisant `moncompte.nom` , `moncompte.numero`, `moncompte.solde`.
+
+Exemple: copier le code ci-dessus. Créer vous un compte et accéder aux différents paramètres. 
 
  Toutefois, il est préférable de ne pas procéder ainsi. 
 
