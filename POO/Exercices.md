@@ -57,7 +57,7 @@ True
 
 '192.168.0.3'
 
-####  Exercice 1 : 
+####  Exercice 2 : 
 
 Considérons le plan muni d'un repère orthonormé, chaque point est repéré par deux nombres que nous appelons abscisse et ordonnée. 
 
