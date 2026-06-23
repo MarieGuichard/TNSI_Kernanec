@@ -4,13 +4,13 @@ import pygame
 from pygame.locals import *
 
 
-def generation_grille(taille):
+def generation_grille(taille: int)-> list[list]:
     ''' genere un tableau de tableaux de longueur et de largeur valant taille et  contenant des zéros (cellules mortes )
         taille <- int '''
     pass
    
 
-def place_cellules_v(grille, cellules_vivantes):
+def place_cellules_v(grille:list[list], cellules_vivanteslist[tuple])->list[list]:
     '''place des cellules vivantes dans la grille (matérialisés par des 1)
     grille <- généré grace à la fonction generation_grille()
     cellules_vivantes <- tabeau contenant les tuples de coordonnées des cellules vivantes
@@ -18,21 +18,21 @@ def place_cellules_v(grille, cellules_vivantes):
     '''
     pass
 
-def place_cellules_aléa(grille, nombre):
+def place_cellules_aléa(grille:list[list], nombre: int)->list[list]:
     ''' place de manière aléatoire un nombre de cellules vivantes dans la grille
         grille <- généré grace à la fonction generation_grille()
         renvoie la grille modifiée
         '''
     pass
 
-def compte_voisins_vivants(grille,coord):
+def compte_voisins_vivants(grille:list[list],coord:tuple)-> int:
     ''' Compte le nombre de cellules vivantes voisines de la cellule de coordonnées (i,j), i représentant la colonne et j la ligne
         grille <- tableau de tableaux
         coord <- tuple contenant des entiers compris entre 0 et len(grille)-1
         renvoie un entier'''
     pass
   
-def grille_voisins(grille):
+def grille_voisins(grille:list[list])->list[list]:
     ''' genere une grille contenant le nombre de cellules vivantes voisines
     grille <- tableau de tableaux
     renvoie un tableau de tableaux
