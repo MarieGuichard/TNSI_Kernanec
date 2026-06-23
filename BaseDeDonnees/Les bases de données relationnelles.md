@@ -2,7 +2,7 @@
 
 
 
-Une base de données est un ensemble structuré de fichiers regroupant des informations ayant certains caractères en commun. * D' après le petit Larousse *
+Une base de données est un ensemble structuré de fichiers regroupant des informations ayant certains caractères en commun. *D' après le petit Larousse*
 
 Un système de gestion de base de données (SGBD) est le logiciel qui permet à un ordinateur de stocker, récupérer, ajouter, supprimer et modifier des données. Un SGBD gère tous les aspects primaires d'une base de données, y compris la gestion de la manipulation des données, comme l'authentification des utilisateurs, ainsi que l'insertion ou l'extraction des données. Un SGBD définit ce qu'on appelle le schéma de données ou la structure dans laquelle les données sont stockées.
 
