@@ -1,45 +1,4 @@
 # Exercices: POO
-
-####  Exercice 1 : 
-
-Considérons le plan muni d'un repère orthonormé, chaque point est repéré par deux nombres que nous appelons abscisse et ordonnée. 
-
-Nous allons implémenter un point de trois manières différentes. Pour cela, nous utiliserons 
-
-1. Implémenter le type abstrait Point de trois façons différentes :
-
-- par un tuple
-
-- par un dictionnaire
-
-- par une classe d'objets.  
-
-2. Comparer le code nécessaire pour créer un nouveau point, changer l'une de ses coordonnées et calculer la distance entre deux points.
-
-
-
-#### Exercice 2: 
-
-1. Définir une classe Voiture ayant les attributs suivants, avec les valeurs par défaut, indiquées.
-
-`marque = 'Ford', couleur = 'rouge', pilote='personne', vitesse = 0`. 
-
-2. Ajouter une méthode choix_conducteur(nom) qui permettra de désigner (ou changer) le nom du conducteur.
-
-3. Ajouter une méthode `accelerer(taux,duree)` qui permettra de faire varier la vitesse de la voiture. La variation de vitesse obtenue sera égale au produit : taux*duree.  
-
-   Par exemple, si la voiture accélère aux taux de 1,3m/s pendant 20 secondes, son gain de vitesse doit être égal à 26 m/s. Des taux négatifs seront acceptés (ce qui permet de décélérer). La variation de vitesse ne sera pas autorisée si le conducteur est 'personne'.  
-
-4. Ajouter une méthode `affiche_tout()` qui permettra de faire apparaître les propriétés présentes de la voiture.  
-
-
-
-Exemples d'utilisation de cette classe :
-
-![](/POO/img/utilisationvoiture.jpg)
-
-
-
 #### Exercice 3 : 
 
 On définit une classe gérant une adresse IPv4. On rappelle qu’une adresse IPv4 est une adresse de longueur 4 octets, notée en décimale à point, en séparant chacun des octets par un point. 
@@ -99,6 +58,47 @@ True
 '192.168.0.3'
 
 
+
+
+#### Exercice 2: 
+
+1. Définir une classe Voiture ayant les attributs suivants, avec les valeurs par défaut, indiquées.
+
+`marque = 'Ford', couleur = 'rouge', pilote='personne', vitesse = 0`. 
+
+2. Ajouter une méthode choix_conducteur(nom) qui permettra de désigner (ou changer) le nom du conducteur.
+
+3. Ajouter une méthode `accelerer(taux,duree)` qui permettra de faire varier la vitesse de la voiture. La variation de vitesse obtenue sera égale au produit : taux*duree.  
+
+   Par exemple, si la voiture accélère aux taux de 1,3m/s pendant 20 secondes, son gain de vitesse doit être égal à 26 m/s. Des taux négatifs seront acceptés (ce qui permet de décélérer). La variation de vitesse ne sera pas autorisée si le conducteur est 'personne'.  
+
+4. Ajouter une méthode `affiche_tout()` qui permettra de faire apparaître les propriétés présentes de la voiture.  
+
+
+
+Exemples d'utilisation de cette classe :
+
+![](/POO/img/utilisationvoiture.jpg)
+
+
+
+
+
+####  Exercice 1 : 
+
+Considérons le plan muni d'un repère orthonormé, chaque point est repéré par deux nombres que nous appelons abscisse et ordonnée. 
+
+Nous 
+
+1. Implémenter le type abstrait Point de trois façons différentes :
+
+- par un tuple
+
+- par un dictionnaire
+
+- par une classe d'objets.  
+
+2. Comparer le code nécessaire pour créer un nouveau point, changer l'une de ses coordonnées et calculer la distance entre deux points.
 
 #### Exercice 4 : 
 
