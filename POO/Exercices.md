@@ -165,9 +165,9 @@ Pour des raisons historiques, cette méthode de chiffrement est appelée  "code 
 
 2. La méthode de chiffrement du « code César » consiste à décaler les lettres du  message dans l’alphabet d'un nombre de rangs fixé par la clé. Par exemple,  avec la clé 3, toutes les lettres sont décalées de 3 rangs vers la droite : le A  devient le D, le B devient le E, etc.   
 
-       Ajouter une méthode `cryptage(self, texte)` dans la classe` CodeCesar` définie  à la question précédente, qui reçoit en paramètre une chaîne de caractères (le  message à crypter) et qui retourne une chaîne de caractères (le message  crypté).  
+Ajouter une méthode `cryptage(self, texte)` dans la classe` CodeCesar` définie  à la question précédente, qui reçoit en paramètre une chaîne de caractères (le  message à crypter) et qui retourne une chaîne de caractères (le message  crypté).  
 
-      Cette méthode `cryptage(self, texte)` doit crypter la chaîne texte avec la clé  de l'objet de la classe `CodeCesar` qui a été instancié. 
+Cette méthode `cryptage(self, texte)` doit crypter la chaîne texte avec la clé  de l'objet de la classe `CodeCesar` qui a été instancié. 
 
       Exemple :
 
