@@ -147,9 +147,11 @@ Les arguments « Le Penven », 2710 et 1000000 ont été envoyés au constructeu
 self est un argument « fantôme ». On ne le passe pas en paramètre. 
 Il est possible d'accéder aux paramètres du compte en utilisant `moncompte.nom` , `moncompte.numero`, `moncompte.solde`.
 
-Exemple: copier le code ci-dessus. Créer vous un compte et accéder aux différents paramètres. 
+**Exemple:**
+1. Copier le code ci-dessus.
+2. Créer vous un compte et accéder aux différents paramètres. 
 
- Toutefois, il est préférable de ne pas procéder ainsi. 
+Toutefois, il est préférable de ne pas procéder ainsi. 
 
 ### c. Les méthodes. 
 
@@ -188,3 +190,10 @@ def affiche(self):
   `instance.methode(argument)`
 
 ![](/POO/img/construction_moncomptebancaire.jpg)
+
+**Exemple:**
+En reprenant le code que vous avez écrit dans la question précédente: 
+1. afficher le montant sur votre compte.
+2. Déposer 500€ sur votre compte.
+3. Faites un retrait de 200€ sur votre compte.
+4. Afficher le nouveau montant sur votre compte. 
