@@ -185,7 +185,7 @@ Il permet notamment de stocker, de manipuler et de retrouver ces données. Il es
 
 ### a. Support.
 
-Nous utiliserons deux supports. 
+Nous utiliserons deux supports parmi les trois indiqués ici. 
 
 #### 1. mysql
 
@@ -201,7 +201,7 @@ Cela devrait afficher quelques lignes, mais la dernière doit être:
 mysql >
 ```
 
-C'est l'invite de commande mySQL, vous êtes prêt à travailler. 
+C'est l'invite de commande mySQL, vous êtes prêt à travailler. Nous n'utiliserons pas cette possbilité ici.
 
 #### 2. Db browser for SQLite. 
 
