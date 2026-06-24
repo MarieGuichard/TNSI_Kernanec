@@ -11,39 +11,33 @@ Le jeu de la vie
 3. Programmation orientée objet
 
 4. Base de données
-
-   
-5.Mini projet: les tours de Hanoï
-
-
-7.  récursivité
-
-
-8. Listes, piles, files, dictionnaires
+5. Mini projet: les tours de Hanoï
+6. récursivité
+7. Listes, piles, files, dictionnaires
 notion d'interface et d'implémentation.
 Listes, listes chainées
 piles
 files
 dictionnaires
 
-9. Processus
+8. Processus
 
-10. Arbres,
+9. Arbres,
 - structures de données
 - Algorithmes
 
-9. Protocoles de routage
+10.  Protocoles de routage
   
-10. Algo : diviser pour mieux régner
+11. Algo : diviser pour mieux régner
 
-11. Graphes
+12. Graphes
     
-12. Sécurité des communications
+13. Sécurité des communications
     
-13. Programmation fonctionnelle
+14. Programmation fonctionnelle
     
-14. Algo : recherche textuelle
+15. Algo : recherche textuelle
     
-15. Programme en tant que donnée, calculabilité, décidabilité.
+16. Programme en tant que donnée, calculabilité, décidabilité.
     
-16. SOC
+17. SOC
