@@ -211,7 +211,11 @@ Contrairement aux serveurs de bases de données traditionnels, comme MySQL, sa p
 
 DB Browser for SQLite est un logiciel gratuit et libre permettant de créer et de manipluer des bases de données sans avoir besoin d'un serveur. 
 
-Pour le télécharger, vous pouvez utiliser le lien suivant: https://sqlitebrowser.org
+Pour le télécharger chez vous, vous pouvez utiliser le lien suivant: https://sqlitebrowser.org
+
+#### 3. le module sqlite3 en python. 
+
+Le module `sqlite3` permet de travailler avec les bases de données et le langage SQL en passant par python. 
 
 ### b. Les requêtes en écriture. 
 
