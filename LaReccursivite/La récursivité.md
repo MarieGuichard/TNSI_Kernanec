@@ -140,10 +140,10 @@ def fonction(arguments):
 
 ​	Pour écrire une fonction récursive, on doit :
 
-- - déterminer le type de données à renvoyer,
-  - déterminer pour quelle(s) valeur(s) de l'argument le problème est résolu et on écrit la condition d'arrêt,
-  - déterminer de quelle manière la taille du problème est réduite (argument entier qui 	décroît strictement, liste dont la taille diminue, …)
-  - écrire l'appel récursif en prenant garde à ce que le type de données qu'il 	renvoie soit cohérent avec celui renvoyé par la condition d'arrêt.  	
+- déterminer le type de données à renvoyer,
+- déterminer pour quelle(s) valeur(s) de l'argument le problème est résolu et on écrit la condition d'arrêt,
+- déterminer de quelle manière la taille du problème est réduite (argument entier qui 	décroît strictement, liste dont la taille diminue, …)
+- écrire l'appel récursif en prenant garde à ce que le type de données qu'il 	renvoie soit cohérent avec celui renvoyé par la condition d'arrêt.  	
 
 
 
