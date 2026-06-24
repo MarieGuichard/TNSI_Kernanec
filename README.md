@@ -12,19 +12,20 @@ Le jeu de la vie
 
 4. Base de données
 
-5. récursivité
+5.Mini projet: les tours de Hanoï
+6.  récursivité
 
 
-6. Listes, piles, files, dictionnaires
+7. Listes, piles, files, dictionnaires
 notion d'interface et d'implémentation.
 Listes, listes chainées
 piles
 files
 dictionnaires
 
-7. Processus
+8. Processus
 
-8. Arbres,
+9. Arbres,
 - structures de données
 - Algorithmes
 
