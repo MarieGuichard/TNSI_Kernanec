@@ -10,7 +10,7 @@ def generation_grille(taille: int)-> list[list]:
     pass
    
 
-def place_cellules_v(grille:list[list], cellules_vivanteslist[tuple])->list[list]:
+def place_cellules_v(grille:list[list], cellules_vivantes:list[tuple])->list[list]:
     '''place des cellules vivantes dans la grille (matérialisés par des 1)
     grille <- généré grace à la fonction generation_grille()
     cellules_vivantes <- tabeau contenant les tuples de coordonnées des cellules vivantes
