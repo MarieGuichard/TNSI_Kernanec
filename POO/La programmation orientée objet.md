@@ -122,7 +122,7 @@ Ces objets auront trois méthodes :
 
 ```python
 class CompteBancaire():
-	def _init_(self,lenom,lenumero,lesolde=0):
+	def __init__(self,lenom,lenumero,lesolde=0):
         self.nom = lenom
         self.numero = lenumero
         self.solde = lesolde
