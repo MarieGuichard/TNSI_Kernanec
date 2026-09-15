@@ -122,7 +122,7 @@ Exemples d'utilisation de cette classe :
 
 
 
-### Exercice 6 type bac.
+### Exercice 6  en route vers le bac écrit.
 
 Cryptage selon le « Code de César »  
 
@@ -205,7 +205,7 @@ Cette méthode `cryptage(self, texte)` doit crypter la chaîne texte avec la cl�
 
        Que va-t-il s’afficher ? Expliquer votre réponse.
 
-   ### Exercice 7 type bac:
+   ### Exercice 7 en route vers le bac écrit:
 La société LOCAVACANCES doit gérer la réservation de l’ensemble des chambres de 
 ses gîtes. Chaque chambre d’un même complexe sera différenciée par son nom. 
 Pour cela, d’un point de vue informatique, on a créé deux classes : Chambre et Gite
@@ -307,3 +307,5 @@ aux questions suivantes :
    b. Dans la méthode `mystère`, quel est type des variables en paramètre et en
 sortie ?
    c. Quelles sont les méthodes ou attributs dont elle a besoin ?
+
+   
