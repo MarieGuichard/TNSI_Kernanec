@@ -292,7 +292,7 @@ Python : `GiteBN.get_chambres()`
 
    b. Qu'affiche la suite d'instructions suivante? 
    ```python
-   Ch = BiteBN.get_chambres()[1]
+   Ch = giteBN.get_chambres()[1]
    print(Ch.get_nom())
    ```
    c. Quelle différence existe-t-il entre les deux méthodes `get_nchambres()`et `get_chambres()`? 
