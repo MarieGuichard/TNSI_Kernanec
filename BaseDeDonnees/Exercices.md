@@ -193,7 +193,7 @@ Ecrire en SQL les requêtes permettant d'obtenir:
 
 
 
-### Exercice 7(bac): 
+### Exercice 7: Pour aller vers le bac.
 
 L’énoncé de cet exercice peut utiliser les mots du langage SQL suivants : 
 
