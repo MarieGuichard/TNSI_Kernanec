@@ -157,7 +157,7 @@ Les **stations** dont sont issues les observations ne disposent pas toutes de me
 
 Pour cet exercice, le modèle relationnel suivant a été retenu :
 
-![](F:\lycee\T NSI\base de données\ex2_bac_polynesie2026.png)
+![](/BaseDeDonnees/IMG/ex2_bac_polynesie2026.png)
 
 Les clés primaires sont soulignées.
 
