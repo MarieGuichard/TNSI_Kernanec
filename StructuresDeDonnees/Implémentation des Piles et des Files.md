@@ -8,9 +8,9 @@
 
 ​	Une première implémentation des piles a été faite dans la class `Pile_list`dont vous trouverez le code dans le répertoire Code. 
 
-	1. Écrire un jeu de test pour chacune des méthodes écrites.
-	2. Écrire une méthode `depile_entierement(self)` qui vide complétement la pile.  		
-	3. Ecrire une méthode `inverse_pile(self)` qui renvoie la pile dans l'ordre inverse.  		
+1. Écrire un jeu de test pour chacune des méthodes écrites.
+2. Écrire une méthode `depile_entierement(self)` qui vide complétement la pile.  		
+3. Ecrire une méthode `inverse_pile(self)` qui renvoie la pile dans l'ordre inverse.  		
 
 
 
