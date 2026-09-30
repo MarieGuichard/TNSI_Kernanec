@@ -2,7 +2,7 @@
 
 
 
-**Les tours de Hanoï** sont un jeu de réflexion imaginé par le mathématicien français Edouard Lucas  t consistant à déplacer des disques de diamètres différents d'une tour de « départ » à une tour d'« arrivée » en passant par une tour « intermédiaire », et ceci en un minimum de coups, tout en respectant les règles suivantes :
+**Les tours de Hanoï** sont un jeu de réflexion imaginé par le mathématicien français Edouard Lucas  consistant à déplacer des disques de diamètres différents d'une tour de « départ » à une tour d'« arrivée » en passant par une tour « intermédiaire », et ceci en un minimum de coups, tout en respectant les règles suivantes :
 
 - on ne peut déplacer plus d'un disque à la fois ;
 - on ne peut placer un disque que sur un autre disque plus grand que lui ou sur un emplacement vide.
