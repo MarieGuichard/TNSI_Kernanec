@@ -47,7 +47,7 @@ On considère l’expression (7-8)∗6∗(10+3).
 
 
 
-### Exercice 4 (Bac): 
+### Exercice 4 pour aller vers le Bac: 
 
 La classe `Pile`dans cet exercice est implémentée en utilisant des listes Python et propose quatre éléments d'interface:
 
@@ -150,7 +150,7 @@ La méthode `est_triee`ci-dessous renvoie `True`si, en dépilant tous les élém
 
 ​				b. Expliquer le traitement effectué par cette méthode. 
 
-### Exercice 5(Bac):
+### Exercice 5 pour aller vers le Bac:
 
 On dispose de la liste `jour`suivante et du dictionnaire `mois`suivant:
 
