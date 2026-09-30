@@ -31,6 +31,7 @@ L'objectif de ce projet est de coder une résolution du casse-tête des tours de
 
 ​	c. Ecrire l'algorithme permettant la résolution du probléme et **appeler votre professeur**. 
 
+
 3. Implémentation des tours de Hanoi. 
 
    Nous travaillerons avec une classe Hanoi qui prendra pour attribut `nb_disques`le nombre de disques sur la tour de départ et un attribut représentant les tours. 
