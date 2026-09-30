@@ -17,11 +17,12 @@ Listes, listes chainées
 piles
 files
 dictionnaires
-6. Mini projet: les tours de Hanoï
-7. récursivité
-8. Processus
 
-9. Arbres,
+7. récursivité
+8. Mini projet: les tours de Hanoï
+9. Processus
+
+10. Arbres,
 - structures de données
 - Algorithmes
 
