@@ -21,7 +21,7 @@ class Pile_lc:
     '''implémentation d'une pile à l'aide d'un tableau python'''
     def __init__(self):
         '''constructeur de la pile'''
-        self.ma_pile = Lc()
+        pass 
         
     def empiler(self,x):
         '''empile l'élèment x dans la pile'''
@@ -29,14 +29,12 @@ class Pile_lc:
     
     def depiler(self):
         '''depile un element de la pile'''
-        self.ma_pile.supprimer(0)
+        pass
         
         
     def element_depile(self):
         '''renvoie l'élèment dépilé de la pile'''
-        j = self.ma_pile.__getitem__(0) #self.ma_pile[0]
-        self.ma_pile.supprimer(0)
-        return j
+        pass
         
     
     def pile_vide(self):
@@ -48,26 +46,22 @@ class Pile_lc:
         >>> mapile.pile_vide()
         False
         '''
-        return self.ma_pile.vide()
+        pass
 
         
     def __len__(self):
         '''affiche le nombre d'élèments contenus dans la pile'''
-        return len(self.ma_pile) # self.ma_pile.__len__()
+        pass
     
     def __str__(self):
         '''renvoie le contenu de la pile sous forme d'une chaine de caractéres'''
-        return self.ma_pile.__str__()
+        pass
     
     def depiler_entierement(self):
-        while not self.pile_vide():
-            self.depiler()
-    
+        pass
+        
     def inverse_pile(self):
-        nv_lc = Lc()
-        while not self.pile_vide():
-            nv_lc.inserer(self.element_depile(),0)
-        self.ma_pile = nv_lc
+       pass
             
     
 if __name__ == "__main__":
