@@ -11,14 +11,13 @@ class Pile_list:
     def empiler(self,x):
         '''empile l'élèment x dans la pile'''
         self.ma_pile.append(x)
-        return self
     
     def depiler(self):
         '''depile un element de la pile'''
         self.ma_pile.pop()
         
     def element_depile(self):
-        '''renvoie l'élèment dépiler de la pile'''
+        '''renvoie l'élèment dépilé de la pile'''
         return self.ma_pile.pop()
         
     def __len__(self):
@@ -35,7 +34,6 @@ class Pile_list:
     def depiler_entierement(self):
         for i in range(len(self)):
             print(self.depiler())
-        return self
     
     def inverse_pile(self):
         retourne = []
@@ -43,6 +41,6 @@ class Pile_list:
             dessus = self.element_depile()
             retourne.append(dessus)
         self.ma_pile = retourne
-        return self
+
     
     
