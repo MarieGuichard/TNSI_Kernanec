@@ -11,15 +11,14 @@ Le jeu de la vie
 3. Programmation orientée objet
 
 4. Base de données
-5. Mini projet: les tours de Hanoï
-6. récursivité
-7. Listes, piles, files, dictionnaires
+5. Listes, piles, files, dictionnaires
 notion d'interface et d'implémentation.
 Listes, listes chainées
 piles
 files
 dictionnaires
-
+6. Mini projet: les tours de Hanoï
+7. récursivité
 8. Processus
 
 9. Arbres,
