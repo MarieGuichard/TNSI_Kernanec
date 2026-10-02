@@ -176,7 +176,7 @@ Sur la figure 3 on peut lire:
 - sur la grille de droite, les informations révélées quand le joueur a choisi la case de coordonnées (0, 3).
 
 On propose de modéliser la visibilité des cellules pour l’utilisateur de la façon suivante.
- ![](/LaReccursivite/img/img4_extypbebac.jpg)
+ ![](/LaReccursivite/img/img4_extypebac.jpg)
 
 
 Une grille est utilisée pour connaître l’état de visibilité de l’information des cases.
