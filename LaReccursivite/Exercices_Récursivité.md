@@ -122,7 +122,7 @@ L'objectif de cet exercice est de  dessiner le flocon de Von Koch avec le module
 
 1. Ecrire une fonction récursive qui permet de dessiner le fractal de Kosh ci-dessous. 
 
-![](\recursivité\img\fractaldevonkoch.jpg)
+![](\LaReccursivité\img\fractaldevonkoch.jpg)
 
 
 
