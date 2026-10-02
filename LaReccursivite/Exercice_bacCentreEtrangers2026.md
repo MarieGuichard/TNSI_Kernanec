@@ -156,7 +156,7 @@ Par exemple :
 1, 2, 2, -1]]
 ```
 
-  ![](/LaReccursivite/img/img_2_extypebac.png)
+ ![](/LaReccursivite/img/img_2_extypebac.png)
 
 
 #### Partie C : L’interface utilisateur du jeu du démineur
