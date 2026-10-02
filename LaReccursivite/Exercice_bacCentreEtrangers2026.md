@@ -15,7 +15,7 @@ Chaque case de cette grille peut cacher une mine, ou être vide.
 - La fin de la partie : Si on choisit sur une mine, la partie est perdue. Si on découvre toutes les cases libres, la partie est gagnée.
   Figure 1. Une grille 6x7 du démineur avec les informations du jeu.
 
-  ![](F:\lycee\T NSI\recursivité\img1_exbac1.jpg)
+  ![](/LaReccursivite/img/img1_exbac1.jpg)
 
 
 
@@ -156,7 +156,8 @@ Par exemple :
 1, 2, 2, -1]]
 ```
 
-![](F:\lycee\T NSI\recursivité\img_2_extypebac.png)
+  ![](/LaReccursivite/img/img_2_extypebac.png)
+
 
 #### Partie C : L’interface utilisateur du jeu du démineur
 
@@ -165,8 +166,8 @@ Les parties précédentes ont permis la création d’une grille du démineur. L
 - Si la case contient une mine toutes les cases sont alors dévoilées.
 - Dans le cas contraire une ou plusieurs cases seront dévoilées.
 Figure 3. Gérer le visuel du joueur.
+ ![](/LaReccursivite/img/img3_extypbebac.jpg)
 
-![](F:\lycee\T NSI\recursivité\img3_extypbebac.jpg)
 
 Sur la figure 3 on peut lire:
 
@@ -175,8 +176,8 @@ Sur la figure 3 on peut lire:
 - sur la grille de droite, les informations révélées quand le joueur a choisi la case de coordonnées (0, 3).
 
 On propose de modéliser la visibilité des cellules pour l’utilisateur de la façon suivante.
+ ![](/LaReccursivite/img/img4_extypbebac.jpg)
 
-![](F:\lycee\T NSI\recursivité\img4_extypebac.jpg)
 
 Une grille est utilisée pour connaître l’état de visibilité de l’information des cases.
 
