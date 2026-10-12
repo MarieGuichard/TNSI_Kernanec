@@ -40,7 +40,7 @@ a. Reconnaître et nommer les éléments du schéma relationnel :
 |6||
 |7||
 
-b. Ré-écrire le schéma relationnel ci-dessus dans une version textuelle ou chaque relation/table pourra s’écrire ainsi :
+b. Ré-écrire le schéma relationnel ci-dessus dans une version textuelle.
 
 
 
