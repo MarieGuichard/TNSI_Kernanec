@@ -4,7 +4,7 @@
 
 Ce travaux pratiques ont pour objectif de vous faire découvrir les principales notions vues en cours autour des bases de données.
 * modèle relationnel
-* SGBDR 
+* SGBD 
 
 Ce TP se réalisera avec  DB Browser for SQLite (outil graphique)
 
