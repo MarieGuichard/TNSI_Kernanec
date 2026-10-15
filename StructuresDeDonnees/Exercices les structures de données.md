@@ -204,7 +204,7 @@ On dispose de la liste `jour`suivante et du dictionnaire `mois`suivant:
 
 
 
-### Exercice 6(Bac):
+### Exercice 6(Pour aller vers le Bac):
 
 Un supermarché met en place un système de passage automatique en caisse.  Un client scanne les articles à l’aide d’un scanner de code-barres au fur et à mesure  qu’il les ajoute dans son panier.  Les articles s’enregistrent alors dans une structure de données.  
 
