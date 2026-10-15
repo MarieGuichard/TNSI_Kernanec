@@ -10,13 +10,13 @@ Tout d’abord, on dispose d’un jeu de cartes sur lesquelles est inscrit un no
 
 Un exemple de manche est présenté dans le schéma suivant.
 
-![](F:\lycee\T NSI\structures de données, listes, piles, files\ex1_typebac_NSI.png)
+![](/StructuresDeDonnees/img/ex1_typebac_NSI.png)
 
 L’objectif est de trouver une plus courte chaîne valide (celle dont le nombre de cartes est le plus petit possible) dont la somme vaut la cible (cette chaine peut être constituée d’un seul nombre). Pour constituer une chaine, deux cartes consécutives de cette chaîne doivent être voisines dans la grille, horizontalement, verticalement ou diagonalement. Une même carte ne peut pas être utilisée plusieurs fois dans une chaine.
 
 Avec le plateau ci-dessus, on peut obtenir le nombre 27 de plusieurs manières. Le schéma suivant présente trois exemples de chaînes pour obtenir 27. Les deux premières, de longueur 3, sont les plus courtes possibles.
 
-![](F:\lycee\T NSI\structures de données, listes, piles, files\ex1_img2_typebac.png)
+![](/StructuresDeDonnees/img/ex1_img2_typebac.png)
 
 
 On remarque que les enchainements suivants ne sont pas des chaines :
